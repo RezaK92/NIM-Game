@@ -12,7 +12,7 @@ This project implements the classic **Nim** game and compares multiple strategie
 
 ## What is Nim?
 
-Nim is a two-player impartial game with multiple rows (heaps) of objects. On each turn, a player chooses one row and removes one or more objects from it (optionally up to a maximum `k`). The player who takes the last object wins (normal play). :contentReference[oaicite:1]{index=1}
+Nim is a two-player impartial game with multiple rows (heaps) of objects. On each turn, a player chooses one row and removes one or more objects from it (optionally up to a maximum `k`). The player who takes the last object wins (normal play).
 
 ---
 
@@ -25,7 +25,7 @@ Nim is a two-player impartial game with multiple rows (heaps) of objects. On eac
   - `nimming(ply)` applies a move after validating it
 
 - **`Nimply`**
-  - A namedtuple move representation: `(row, num_objects)` :contentReference[oaicite:2]{index=2}
+  - A namedtuple move representation: `(row, num_objects)` 
 
 ---
 
