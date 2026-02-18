@@ -7,7 +7,6 @@ This project implements the classic **Nim** game and compares multiple strategie
 - A custom **rule-based nim-sum agent**
 - An **evolved strategy** whose behavior is tuned via a lightweight evolutionary loop
 
-The file is written in a notebook-style Python script with clear sections and a runnable match simulation. :contentReference[oaicite:0]{index=0}
 
 ---
 
